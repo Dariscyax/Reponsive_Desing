@@ -1,0 +1,47 @@
+.color-morado {
+    background-color: rgb(250, 230, 192);
+}
+
+.texto1{
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 18px;
+    direction: "up";
+}
+
+.texto2{
+    font-weight: bold;
+    font-size: 40px;
+    margin-left: 18px;
+    direction: "up";
+
+}
+
+.texto3{
+    font-weight: bold;
+    font-size: 18px;
+    margin-left: 18px;
+    direction: "up";
+    color: rgb(99, 98, 98);
+}
+
+.carrito{
+    width: 45px;
+    margin-left: 130px;
+    margin-top: 0;
+}
+
+
+.card{
+    color: rgb(94, 93, 93);
+    text-align-last: center;
+}
+
+
+
+.col-12.col-md-4{
+    background-color: rgb(250, 230, 192);
+}
+
+
+
